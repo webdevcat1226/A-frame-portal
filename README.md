@@ -1,11 +1,9 @@
-# A-Frame-example
+# A-Frame-portal
 
 A-Frame example showing the reconstructed facade of the St. Margherita church of l'Aquila (Italy) with some **light animation** and **interactive panels**. The interactive panels are also useful to move around the 3D map when you are using devices without controllers such as smartphones or tablets.
 
 The model used here was obtained using photogrammetry and laser scanning techniques. The complete process is explained in this paper: [Augmented Reality for Historical Storytelling. The INCIPICT Project for the Reconstruction of Tangible and Intangible Image of L’Aquila Historical Centre
 ](https://www.researchgate.net/publication/321205949_Augmented_Reality_for_Historical_Storytelling_The_INCIPICT_Project_for_the_Reconstruction_of_Tangible_and_Intangible_Image_of_L'Aquila_Historical_Centre).
-
-Open it on [https://pichillilorenzo.github.io/A-Frame-example/](https://pichillilorenzo.github.io/A-Frame-example/) to see the example.
 
 **A-Frame compontents** defined in `main.js` are:
 - **basic-material**: set a `THREE.MeshBasicMaterial` to an A-Frame entity.
